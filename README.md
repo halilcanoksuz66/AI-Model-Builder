@@ -18,6 +18,29 @@ Bu proje, makine öğrenimi modellerini kolayca eğitmek, değerlendirmek ve ver
 
 ---
 
+
+## 🖼️ Ekran Görüntülerı
+
+📌 **Veri Yükleme & Ön İşleme**  
+![](screenshots/Image1.png)
+![](screenshots/Image2.png)
+
+📌 **Model Eğitme**    
+![](screenshots/Image3.png)
+
+📌 **Performans Analizi**  
+![](screenshots/Image4.png)
+
+📌 **Performans Analizi**  
+![](screenshots/Image5.png)
+
+📌 **Tahmin Yap**  
+![](screenshots/Image6.png)
+
+
+---
+
+
 ## 🏰️ Kurulum ve Çalıştırma
 
 Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
@@ -49,27 +72,6 @@ streamlit run app.py
 ```
 
 Ardından, tarayıcınızda **http://localhost:8501** adresinden erişebilirsiniz.
-
----
-
-## 🖼️ Ekran Görüntülerı
-
-📌 **Veri Yükleme & Ön İşleme**  
-![](screenshots/Image1.png)
-![](screenshots/Image2.png)
-
-📌 **Model Eğitme**    
-![](screenshots/Image3.png)
-
-📌 **Performans Analizi**  
-![](screenshots/Image4.png)
-
-📌 **Performans Analizi**  
-![](screenshots/Image5.png)
-
-📌 **Tahmin Yap**  
-![](screenshots/Image6.png)
-
 
 ---
 
