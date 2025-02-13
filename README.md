@@ -48,9 +48,6 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
 ### **1️⃣ Gerekli Kütüphaneleri Yükleyin**
 Öncelikle Python ortamınızı oluşturun ve aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
 
-```bash
-pip install -r requirements.txt
-```
 
 **Gerekli Başlıca Kütüphaneler:**
 - `streamlit`
